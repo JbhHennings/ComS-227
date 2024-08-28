@@ -59,7 +59,7 @@ public class SimpleTests
     System.out.println("Expected [2, 3]");
     System.out.println(Arrays.toString(c.getAll()));
     System.out.println("Expected [2, 2, 3, 4, 6]");
-    System.out.println():
+    System.out.println();
     
     // move all to completed
     c.chooseAll();
